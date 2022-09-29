@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/project-logo1.png" />
 
   <h2 align="center">Homeverse - Real estate website</h2>
 
